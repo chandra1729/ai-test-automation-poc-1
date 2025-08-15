@@ -1,2 +1,2 @@
 # AI Test Automation Project
->>>>>>> 32ec9f1 (my first ai experiment commit)
+>>>>>>> 32ec9f1 (ai integration)
